@@ -11,6 +11,6 @@ class Controller extends BaseController
 {
 	use AuthorizesRequests, DispatchesJobs, ValidatesRequests;
 	public function abc(){
-	echo hhhhh;
+	echo 'hhhhhhhhhhhh';
 	}
 }
